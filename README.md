@@ -22,7 +22,7 @@
 <img align="center" alt="Brunio-dart" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
 <img align="center" alt="Brunio-flutter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="center" alt="Brunio-figma" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<abbr title="Adobe XD"><img align="center" alt="Brunio-xd" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/><abbr>
+<img align="center" alt="Brunio-xd" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"/>
   </br>
 </div>
 
