@@ -1,9 +1,8 @@
 <h2> Olá, eu sou o Emanoel Brunio! </h2>
 
 <div align="center">
-    <a align="center" href="https://github.com/rafaballerini", >
-    <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=emanoelbrunio&show_icons=true&include_all_commits=true&count_private=true&bg_color=0E091B&title_color=00b2ff&text_color=ffffff&icon_color=ff2cdf&border_radius=15&border_color=00b2ff&count_private=true"/>
-    <img align="center" altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&bg_color=0E091B&title_color=00b2ff&text_color=ffffff&icon_color=ff2cdf&border_radius=15&border_color=00b2ff&count_private=true"/>
+ <a align="center" href="https://github.com/rafaballerini", >
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=emanoelbrunio&show_icons=true&include_all_commits=true&count_private=true&bg_color=0E091B&title_color=00b2ff&text_color=ffffff&icon_color=ff2cdf&border_radius=15&border_color=00b2ff&count_private=true"/><img align="center" altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&bg_color=0E091B&title_color=00b2ff&text_color=ffffff&icon_color=ff2cdf&border_radius=15&border_color=00b2ff&count_private=true"/>
 </div>
 
 <hr style="border: none; background: linear-gradient(95.26deg, rgba(255, 44, 250, 0) 0%, #FF2CFA 32.43%, #00DDFF 68.78%, rgba(0, 221, 255, 0) 97.4%);border-radius: 50px; height: 0.5px; width:100%">
