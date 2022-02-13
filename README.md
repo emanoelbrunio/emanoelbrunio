@@ -24,7 +24,8 @@
 
 
 
-<a href="https://www.instagram.com/emanoelbrunio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="border-radius: 15px"></a>
-<a href="https://t.me/emanoelbrunio" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" style="border-radius: 15px"></a>
-<a href="mailto:emanoelbrunio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius: 15px"></a>
-<a href="https://www.linkedin.com/in/emanoel-brunio-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 15px"></a>
+<a href="https://www.instagram.com/emanoelbrunio/" target="_blank"><img src="imagens_readme/insta.png" target="_blank"></a>
+<a href="https://t.me/emanoelbrunio" target="_blank"><img src="imagens_readme/telegram.png" target="_blank"></a>
+<a href="mailto:emanoelbrunio@gmail.com" target="_blank"><img src="imagens_readme/gmail.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emanoel-brunio-santana-silva/" target="_blank"><img src="imagens_readme/linkedin.png" target="_blank"></a>
+<a href="https://emanoelbrunio.vercel.app/" target="_blank"><img src="imagens_readme/port.png" target="_blank"></a>
