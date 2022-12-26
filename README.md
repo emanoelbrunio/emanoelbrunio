@@ -40,7 +40,7 @@
 </br>
 <div align="center">
 <a href="https://emanoelbrunio.vercel.app/" target="_blank"><img src="imagens_readme/port.png" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emanoel-brunio-santana-silva/" target="_blank"><img src="imagens_readme/linkedin.png" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emanoelbrunio/" target="_blank"><img src="imagens_readme/linkedin.png" target="_blank"></a>
 <a href="mailto:emanoelbrunio@gmail.com" target="_blank"><img src="imagens_readme/gmail.png" target="_blank"></a>
 <a href="https://t.me/emanoelbrunio" target="_blank"><img src="imagens_readme/telegram.png" target="_blank"></a>
 </div>
