@@ -1,4 +1,4 @@
-## Olá, me chamo Emanoel Brunio, sou Dev Front-End e Dev Mobile 
+## Olá, me chamo Emanoel Brunio, sou Dev Front-End e Dev Mobile !
 
 <div style="display: flex; gap: 2px; align-items: center;" align="center" >
 
