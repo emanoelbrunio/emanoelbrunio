@@ -2,7 +2,7 @@
 
 <div>
   <ul>
-    <li>🧑‍💻 Desenvolvedor mobile apaixonado por programação e com foco em resultados.</li> <br>
+    <li>🧑‍💻 Desenvolvedor mobile e front-end apaixonado por programação e com foco em resultados.</li> <br>
     <li>💼 +1 ano de experiência como Dev. Mobile e Front-End com React Native e React.Js, respectivamente.</li> <br>
     <li>🎓 Bacharel em Tecnologia da Informação e graduando em Engenharia de Software pela Universidade Federal Rural do Semiárido (UFERSA), com experiência em desenvolvimento de aplicativos mobile com React Native e web com React.Js.</li> <br>
     <li>🧔 Sou uma pessoa proativa, com facilidade de aprendizado e que busca constantemente melhorar suas habilidades.</li> <br>
